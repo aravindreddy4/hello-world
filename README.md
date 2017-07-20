@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-new repository
+add new repository
